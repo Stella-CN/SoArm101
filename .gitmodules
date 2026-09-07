@@ -1,0 +1,3 @@
+[submodule "3rdparty/lerobot"]
+	path = 3rdparty/lerobot
+	url = https://github.com/Seeed-Projects/lerobot.git
