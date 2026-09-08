@@ -1,6 +1,7 @@
 #workspace
 .idea
 .agents
+.vscode
 
 #ROS
 build/
