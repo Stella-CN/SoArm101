@@ -2,9 +2,9 @@
 .idea
 .agents
 .vscode
+.DS_Store
 
 #ROS
 build/
 install/
 log/
-
